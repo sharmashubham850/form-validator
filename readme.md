@@ -1,3 +1,3 @@
 # Form-validator
 
-A simple HTML register form with Javascript validations.
+A imple User Registration form with Javascript validations.
